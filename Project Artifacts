@@ -25,3 +25,6 @@ I finalized my part and got back to my team
 ### 
 Abdulrahman Alothman s200082801 report: I have created a shared file for phase 2 for the team and solved the first part of the answer in the file and in Packet tracker
 ###
+Muhannad Aljmiai S240017356 report: I established LAN connections between end devices, switches, and routers using Copper Straight-Through cables
+I assigned static IP addresses, /24 subnet masks, and default gateways across four LAN networks and configured the router interfaces and end devices
+I configured the serial link WAN connection between Router 1 and Router 2 using the 10.10.10.0/30 subnet and pushed all updates to GitHub
