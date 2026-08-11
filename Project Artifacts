@@ -28,3 +28,7 @@ Abdulrahman Alothman s200082801 report: I have created a shared file for phase 2
 Muhannad Aljmiai S240017356 report: I established LAN connections between end devices, switches, and routers using Copper Straight-Through cables
 I assigned static IP addresses, /24 subnet masks, and default gateways across four LAN networks and configured the router interfaces and end devices
 I configured the serial link WAN connection between Router 1 and Router 2 using the 10.10.10.0/30 subnet and pushed all updates to GitHub
+####
+Khalid Alquraini S230024036 report: I completed my tasks for phase 2 in Cisco Packet Tracer and updated our documentation.
+I verifed the static routing set up and performed tests between WAN 1 and WAN2 and confirming 0% packet loss.
+I added the troubleshooting details and I write the relefction section.
